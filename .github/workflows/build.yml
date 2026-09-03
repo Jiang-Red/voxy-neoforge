@@ -1,4 +1,4 @@
-# Voxy NeoForge Build CI
+# Voxy NeoForge Build CI test
 # Validates build integrity on every push and pull request
 
 name: Build
